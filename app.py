@@ -9,7 +9,7 @@ st.set_page_config(
 )
 
 # API endpoints mapping to our FastAPI backend server
-BACKEND_URL = "http://127.0.0.1:8000"
+BACKEND_URL = "https://sohail435-movie-engine-backend.hf.space"
 
 st.title("🎬 Advanced Movie Recommender & Sentiment Engine")
 st.markdown("---")
